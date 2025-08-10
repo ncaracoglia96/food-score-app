@@ -1,0 +1,1 @@
+{ "name": "food-score-app", "version": "1.0.0", "main": "App.js", "scripts": { "start": "expo start" }, "dependencies": { "expo": "^50.0.0", "expo-barcode-scanner": "^13.4.0", "react": "18.2.0", "react-native": "0.73.4", "@react-navigation/native": "^6.1.7", "@react-navigation/stack": "^6.3.21" } }
